@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root{
+:ShadowRoot--jet: #333333ff;
+--timberwolf: #d5ccc7ff;
+--silver: #a9a29cff;
+--raisin-black: #28262bff;
+--titulo:"Bebas Neue", sans-serif;
+--texto: "PT Serif", serif;
+ }
